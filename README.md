@@ -1,4 +1,4 @@
-## Streetbeat Tackles τ-bench: Evaluating Advanced Agentic Capabilities in Realistic Scenarios
+## Evaluating Streetbeat's Financial Agent Framework using the τ-bench Benchmark
 
 The rapid evolution of AI agents necessitates robust evaluation methods that go beyond simple task completion. While benchmarks have driven progress, many focus on static tasks or single-turn interactions. For agents designed to operate in complex, dynamic environments – like those in finance – benchmarks must assess their ability to interact naturally, utilize tools effectively, and adhere strictly to domain-specific rules over extended conversations.
 
